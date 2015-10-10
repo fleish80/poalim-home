@@ -10,7 +10,7 @@
  var RESOURCE = {
      he: {
          //global
-         'projectTypes.luxuryProject':'τψειχθ ιεχψδ'
+         'projectTypes.luxuryProject':'Χ¤Χ¨Χ•Χ™Χ§Χ Χ™Χ•Χ§Χ¨Χ”'
      },
      en: {
      }

@@ -3,6 +3,6 @@
       var transFilter = $filter('trans');
       $scope.party = {
           _id: 0,
-          name: transFilter('projectTypes.luxuryProject')
+          name:transFilter('projectTypes.luxuryProject')
       };
   }]);
