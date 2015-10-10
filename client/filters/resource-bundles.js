@@ -2,7 +2,7 @@
  * Created by Pais on 10/10/2015.
  */
 
- var lang = 'HE'
+ var lang = 'HE';
  var languages = {
      'HE': 'he',
      'EN': 'en'
