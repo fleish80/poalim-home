@@ -15,10 +15,10 @@
      en: {
      }
  };
-angular.module('poalim-home').filter('trans', ['$scope', '$meteor',function ($scope, $meteor) {
+angular.module('poalim-home').filter('trans',function () {
                                                 return function (input) {
                                                     return RESOURCE[languages[lang]][input];
                                                 };
-                                   }]);
+                                   });
 
 
