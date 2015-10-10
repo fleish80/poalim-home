@@ -3,6 +3,6 @@
       var transFilter = $filter('trans');
       $scope.party = {
           _id: 0,
-          name: "פרויקט יוקרה"
+          name: transFilter('projectTypes.luxuryProject')
       };
   }]);
