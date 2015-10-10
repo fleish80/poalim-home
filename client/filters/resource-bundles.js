@@ -10,8 +10,7 @@
  var RESOURCE = {
      he: {
          //global
-         'global.firstName': 'שם פרטי',
-         'global.lastName': 'שם משפחה',
+         'projectTypes.luxuryProject':'פרויקט יוקרה'
      },
      en: {
      }
